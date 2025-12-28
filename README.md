@@ -39,9 +39,10 @@ A comprehensive **Database Management System (DBMS)** web application designed t
 
 ## 📂 Project Structure
 
+```text
 /society-security-system
 │
-├── /api                
+├── /api               
 │   ├── approve_visitor.php
 │   ├── reject_visitor.php
 │   └── get_pending_requests.php
